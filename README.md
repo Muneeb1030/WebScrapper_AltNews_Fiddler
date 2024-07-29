@@ -27,7 +27,7 @@ In an era where information is abundant, distinguishing between truth and misinf
 ## Getting Started
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/Muneeb1030/WebScrapper_AltNews.git
+    git clone https://github.com/Muneeb1030/WebScrapper_AltNews_Fiddler.git
     ```
 
 2. **Install Dependencies:**
